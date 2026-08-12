@@ -4,7 +4,7 @@
  */
 const PORTFOLIO_CONTENT = {
   brand: "minseo.dev",
-  name: "정민서",
+  name: "QTII",
   initials: "MS",
   heroDescription: "명확한 문제 정의와 섬세한 인터랙션으로, 오래 쓰고 싶은 웹 경험을 만듭니다.",
   aboutLead: "복잡한 정보를 단순한 흐름으로 바꾸고, 사용자가 망설이지 않는 인터페이스를 설계합니다.",
